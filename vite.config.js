@@ -7,6 +7,7 @@ export default defineConfig({
     alias: {
       '@images': '/src/assets/images',
       '@icon': '/src/assets/icon',
+      '@ui': '/src/assets/UI',
     },
   },
   plugins: [vue()],
