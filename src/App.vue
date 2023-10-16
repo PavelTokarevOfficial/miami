@@ -4,7 +4,7 @@
     <div class="container vh-100 d-flex flex-column justify-content-between pt-3 pb-5">
       <row class="w-100">
         <header class="d-flex justify-content-between align-items-center">
-          <button class="button_menu">меню</button>
+          <button class="button_menu">меню 123</button>
           <img src="@images/logo.svg">
           <div class="phone-icon">
             <a href="tel:+1 234 555-55-55"><img src="@icon/icon_call.svg"></a>
