@@ -8,6 +8,7 @@ export default defineConfig({
       '@images': '/src/assets/images',
       '@icon': '/src/assets/icon',
       '@ui': '/src/assets/UI',
+      '@components': '/src/components',
     },
   },
   plugins: [vue()],
